@@ -1,164 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Shubham%20Buchwani&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20Builder&descAlign=50&descAlignY=60"/>
+# Shubham Buchwani
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Products+That+Matter;Always+Learning;Future+Founder+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Digital+Products;Exploring+Cybersecurity;Turning+Ideas+Into+Reality;Always+Learning" />
 
 </div>
-
----
-
-# 👨‍💻 About Me
 
 ```bash
 $ whoami
 
 Shubham Buchwani
 
-Full Stack Developer
-Cybersecurity Enthusiast
-Product Builder
+Software Engineer.
+Security Research Explorer.
+Product Builder.
 
-Building software.
-Exploring security.
-Creating products.
-Learning every day.
+I enjoy creating systems,
+understanding how they work,
+and discovering how they fail.
+
+Currently focused on building products
+that are useful, scalable, and secure.
 ```
 
----
+### Tech Stack
 
-# ⚡ Current Mission
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgres,python,cpp,docker,linux,git" />
+</p>
+
+### Current Focus
 
 ```txt
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-[✓] Full Stack Development
-[✓] Backend Engineering
-[✓] Cybersecurity
-[✓] AI Systems
-[✓] Product Development
-
-[ ] Build Something Massive
-
-Status : ONLINE
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Building meaningful products
+→ System Design & Architecture
+→ AI-Powered Applications
+→ Security Research
+→ Open Source
 ```
 
----
+### GitHub Stats
 
-# 🛠 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,c,cpp,docker,linux,git,github,vscode&perline=9"/>
-
-</div>
+<p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shubham-Buchwani&show_icons=true&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Buchwani&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham-Buchwani&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Buchwani&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shubham-Buchwani&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Buchwani&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham-Buchwani&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-```bash
-$ current_focus
-
-> Building impactful projects
-> Learning advanced backend architecture
-> Exploring AI systems
-> Practicing cybersecurity
-> Creating products people love
-```
-
----
-
-# 📂 Featured Projects
-
-```txt
-████████████████████████████████████
-
-      PROJECTS LOADING...
-
-████████████████████████████████████
-```
-
----
-
-# 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Shubham-Buchwani">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shubham-Buchwani&style=for-the-badge&color=blue"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
+> Building today what I once thought was impossible.

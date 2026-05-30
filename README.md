@@ -31,7 +31,7 @@ Mission  : Turn ambitious ideas into
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham-Buchwani&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubham-Buchwani&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Buchwani&layout=compact&theme=tokyonight&hide_border=true"/>
 
